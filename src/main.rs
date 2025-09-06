@@ -1,3 +1,3 @@
-fn main() {
-    println!("Hello, Rizky!, kita coba mulai dari awal lagi");
-}
+ fn main() {
+println!("Hello ini saya coba lagi ya")    
+ }
